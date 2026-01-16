@@ -1,5 +1,5 @@
-package Array;
-import java.util.Arrays;
+// package Array;
+// import java.util.Arrays;
 
 public class ReverseArrays {
     int[] reverse(int[] arr){
