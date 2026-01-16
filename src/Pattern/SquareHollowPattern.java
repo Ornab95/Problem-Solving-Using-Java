@@ -1,3 +1,4 @@
+package Pattern;
 public class SquareHollowPattern {
     public static void main(String[] args) {
         int i,j;

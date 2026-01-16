@@ -1,3 +1,4 @@
+// package Array;
 import java.util.Arrays;
 
 public class KthSmallest {
@@ -9,7 +10,6 @@ public class KthSmallest {
         System.out.println(call.kthSmallest(arr,k));
     }
     int kthSmallest(int []num, int k){
-        int n = num.length;
         Arrays.sort(num);
         return num[k-1];
     }

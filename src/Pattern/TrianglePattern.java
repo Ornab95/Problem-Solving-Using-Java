@@ -1,3 +1,4 @@
+package Pattern;
 public class TrianglePattern {
     public static void main(String[] args) {
         int n = 6;
